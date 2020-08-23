@@ -2,7 +2,7 @@ import axios from "axios";
 import { push } from "connected-react-router";
 import { routes } from "../containers/Router"
 
-const baseURL = "http://localhost:3003"
+const baseURL = "https://code7case.herokuapp.com"
 
 
 export const postLoginUser = (email, password ) => async (dispatch) => {

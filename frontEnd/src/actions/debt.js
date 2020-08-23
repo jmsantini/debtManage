@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-const baseURL = "http://localhost:3003"
+const baseURL = "https://code7case.herokuapp.com"
 
 export const registerDebt = (
     client_id, client_name, debt_reason, debt_date, debt_value) => async (dispatch) => {
