@@ -90,6 +90,8 @@ Usuário para teste:
 teste@teste.com
 12345
 
+API Postman Documentação : https://documenter.getpostman.com/view/9731865/T1LVA4SN?version=latest
+
 API: https://code7case.herokuapp.com/
 
 Site: http://show-me-the-case.s3-website-us-east-1.amazonaws.com/
