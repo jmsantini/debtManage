@@ -81,3 +81,16 @@ PASSWORD=
 DATABASE=
 CLIENT=
 SECRET=
+
+
+Para acessar o projeto implementado/online:
+
+Usuário para teste:
+
+teste@teste.com
+12345
+
+API: https://code7case.herokuapp.com/
+
+Site: http://show-me-the-case.s3-website-us-east-1.amazonaws.com/
+
