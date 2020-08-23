@@ -1,0 +1,53 @@
+.contentDiv{
+    margin: 2rem ;
+    height: 100vh;
+}
+
+button{
+  cursor: pointer;
+}
+
+
+/* Estilo Registro modal */
+
+.Modal {
+    position: relative;
+    background-color: white;
+    border: solid 3px black;
+    padding: 10px;
+    width:50%;
+    min-width: 270px;
+    height:500px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: auto;
+  }
+
+
+  .Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(17,17,17, 0.5);
+  }
+
+  .ModalClose{
+    position: absolute;
+    bottom: 0.5rem;
+    right: 0.5rem; 
+  }
+
+ .ModalOpen{
+     position: fixed;
+     bottom: 1rem;
+     right: 1rem;
+     width: 100px;
+     height: 60px;
+ }
+
+ /* Estilo Lista de debitos */
+
+ 

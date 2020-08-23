@@ -1,0 +1,54 @@
+
+
+.listofclients {
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    font-weight: bolder;
+    overflow: auto;
+    max-height: 300px;
+}
+
+.debtList {
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 1px 1px 3px gray;
+    border-radius: 8px;
+    margin: 5px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.debtList:hover{
+    box-shadow: 2px 2px 6px gray;
+}
+
+.detailsclientcontent{
+    border: solid 1px black;
+    margin: 3px;
+    height: 150px;
+    overflow: auto;
+}
+
+.detailsclientcontent > p {
+    margin: 3px;
+    margin-left: 10px;
+}
+
+
+.deleteIcon{
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 10px;
+    transition-duration: 0.5s;
+}
+
+.deleteIcon:hover {
+    color: red;
+}
+
+.search_field {
+    margin-top: 50px;
+}
+
+
