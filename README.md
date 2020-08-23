@@ -45,11 +45,9 @@ Stack
 
 Projeto Backend utilizando NodeJS, Express, Typescript e MySQL. Segue uma arquitetura em camadas:
 
-Presentation: responsável pela comunicação com agentes externos.
-
-Data: responsável pela comunicação direta com o banco de dados.
-
-Business: responsável pela lógica.
+- Presentation: responsável pela comunicação com agentes externos.
+- Data: responsável pela comunicação direta com o banco de dados.
+- Business: responsável pela lógica.
 
 
 Sobre
