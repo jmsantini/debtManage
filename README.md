@@ -13,10 +13,10 @@ Para acessar todas as funcionalidades, o usuário precisar efetuar o login.( Aut
 Após ter feito o login, o usuário tem acesso a /home, onde se encontra todas as funcionalidades.
 
 
-Listar valor total de dividas por Cliente.
-Detalhes das dividas de um Cliente.
-Cadastrar uma divida.
-Apagar uma divida.
+1. Listar valor total de dividas por Cliente.
+2. Detalhes das dividas de um Cliente.
+3. Cadastrar uma divida.
+4. Apagar uma divida.
 
 OBS:
 Não consegui implementar atualizar divida no front.
