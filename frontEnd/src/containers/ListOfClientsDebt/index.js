@@ -59,7 +59,7 @@ export class ClientDebtList extends React.Component {
     render() {
 
         const { modalIsOpen, search } = this.state
-        const { clientWithDebts, clientDebts } = this.props;
+        const {  clientDebts } = this.props;
 
         let filterClients = this.props.clientWithDebts.filter((clientDebt) => {
             return clientDebt.client_name.toLowerCase().indexOf(search.toLowerCase()) !== -1 

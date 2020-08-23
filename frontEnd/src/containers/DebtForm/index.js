@@ -5,7 +5,6 @@ import { registerDebt } from "../../actions/debt"
 import TextField from "@material-ui/core/TextField";
 import Select from '@material-ui/core/Select';
 import InputLabel from '@material-ui/core/InputLabel';
-import CurrencyTextField from '@unicef/material-ui-currency-textfield'
 import MenuItem from '@material-ui/core/MenuItem';
 import './styled.css'
 
