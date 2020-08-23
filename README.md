@@ -6,9 +6,13 @@
 Stack
 
 Linguagens e serviços utilizadas
+
+
 ReactJs, javascript, Material-ui, HTML, CSS, Aws s3 para o hosting do site e gerenciadores de pacotes do Nodejs: npm.
 
 Sobre:
+
+
 Para acessar todas as funcionalidades, o usuário precisar efetuar o login.( Autenticação simples de token, armazenado no localStorage)
 Após ter feito o login, o usuário tem acesso a /home, onde se encontra todas as funcionalidades.
 
@@ -22,7 +26,9 @@ OBS:
 Não consegui implementar atualizar divida no front.
 
 
-Instruções para rodar
+Instruções para rodar:
+
+
 Por ser um projeto com ReactJS, há a necessidade do NodeJS. Com ele em sua máquina, basta abrir o terminal e navegar até o repositório clonado e rodar:
 
 npm install para instalar todas as dependências;
