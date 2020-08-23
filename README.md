@@ -68,8 +68,11 @@ Instruções para rodar
 As instruções são:
 
 npm install para instalar todas as dependências;
+
 npm run start para rodar localmente o projeto
+
 npm run build para gerar uma versão possível de ser deployada com os arquivos transpilados para Javascript
+
 Utilizar o env com os dados:
 
 HOST=
